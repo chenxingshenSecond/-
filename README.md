@@ -1,6 +1,11 @@
 # -
 数据集
 
+https://github.com/swarth100/dynfu    DynFu工程 我猜测可能比较靠谱
+https://spina.me/    一个帝国理工学院学生，个人主页，swarth100的作者； 
+https://cloud9.cs.fau.de/index.php/s/46qcNZSNePHx08A?path=%2Fumbrella  伞的数据集不能在里面跑 
+
+
 伞的数据集： 
 https://cloud9.cs.fau.de/index.php/s/46qcNZSNePHx08A 
 https://cloud9.cs.fau.de/index.php/s/46qcNZSNePHx08A?path=%2Fupperbody%2Fdata

@@ -4,8 +4,11 @@
 伞的数据集： 
 https://cloud9.cs.fau.de/index.php/s/46qcNZSNePHx08A 
 https://cloud9.cs.fau.de/index.php/s/46qcNZSNePHx08A?path=%2Fupperbody%2Fdata
-Volume的工程： 
+Volume Fusion的工程： 
 https://www.lgdv.tf.fau.de/publikationen/volumedeform-real-time-volumetric-non-rigid-reconstruction/ 
+
+综合数据集
+http://academictorrents.com/
 
 比较大的数据集  多kinect向外拍摄 ：  
 http://rgbd-dataset.cs.washington.edu/dataset/rgbd-scenes-v2/

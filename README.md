@@ -52,5 +52,6 @@ https://arxiv.org/pdf/1804.06023.pdf
 
 LBR算法 
 https://github.com/wspr/bvh-matlab
+
 https://fr.mathworks.com/matlabcentral/fileexchange/43039-linear-blend-skinning?focused=3792812&tab=function
 

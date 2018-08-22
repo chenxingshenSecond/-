@@ -1,4 +1,19 @@
+# CUDA-GDB
+
+https://blog.csdn.net/u012816621/article/details/52334622
+
+https://blog.csdn.net/sinat_28750977/article/details/69062708
+
+https://docs.nvidia.com/cuda/cuda-gdb/index.html
+
+https://developer.nvidia.com/cuda-gdb
+
+https://blog.csdn.net/wfdtxz/article/details/7368357
+
+https://blog.csdn.net/SilentOB/article/details/77876875
+
 # -
+
 数据集
 
 https://github.com/swarth100/dynfu    DynFu工程 我猜测可能比较靠谱

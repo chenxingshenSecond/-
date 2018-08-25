@@ -1,3 +1,10 @@
+找到人体的数据集了： 
+
+https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db
+
+
+
+
 # CUDA-GDB
 
 https://blog.csdn.net/u012816621/article/details/52334622

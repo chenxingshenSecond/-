@@ -1,4 +1,4 @@
-找到人体的数据集了： 
+找到人体（人头部旋转）的kinect数据集了： 
 
 https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#db
 
